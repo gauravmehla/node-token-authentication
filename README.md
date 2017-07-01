@@ -4,6 +4,8 @@ This repo uses JSON Web Tokens and the [jsonwebtoken](https://github.com/auth0/n
 
 This is a starting point to demonstrate the method of authentication by verifying a token using Express route middleware.
 
+Check the blog post from [here](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens#toc-what-well-be-building)
+
 ## Requirements
 
 - node and npm
